@@ -1,6 +1,6 @@
-## Release ThanhDieu.Com V5 Tester
+## Release GBaoDepTrai.com
 
-## Mô Tả V5.0.0
+## Mô Tả
 
 * Giao diện thân thiện, được tối ưu hoá để không gây ra tuột khung hình (lag)
 * Panel Setting đã được thêm vào, tuỳ chỉnh các cài đặt nho nhỏ của trang.
@@ -16,7 +16,7 @@
 _(Sài termux hoặc Command)_
 
 ```sh
-git clone https://github.com/WusThanhDieu/Profile-ThanhDieu.Com-V5-Tester.git
+git clone https://github.com/baodubaiiii/Profile-Baodubai.git
 ```
 
 ## Hướng Dẫn
@@ -26,6 +26,6 @@ Chỉnh sửa chung ở đường dẫn {domain}/res/config/option.php
 Chỉnh sửa tài nguyên ở: {domain}/res/v5/*
 
 ## Demo
-![ThanhDieu.Com](https://i.imgur.com/urmLd6H.png)
-![ThanhDieu.Com](https://i.imgur.com/tOWfTBQ.png)
-![ThanhDieu.Com](https://i.imgur.com/jjvyIvG.png)
+![GBaoDepTrai.Com](https://i.imgur.com/urmLd6H.png)
+![GBaoDepTrai.Com](https://i.imgur.com/tOWfTBQ.png)
+![GBaoDepTrai.Com](https://i.imgur.com/jjvyIvG.png)
